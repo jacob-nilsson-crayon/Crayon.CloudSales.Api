@@ -1,0 +1,6 @@
+@Crayon.CloudSales.Api_HostAddress = http://localhost:5054
+
+GET {{Crayon.CloudSales.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
